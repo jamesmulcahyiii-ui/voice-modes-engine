@@ -1,0 +1,10 @@
+{
+  "mode": "blog",
+  "voice_profile": "jim_core",
+  "formality": "professional",
+  "audience": "solo entrepreneurs",
+  "purpose": "teach and convert",
+  "output_container": "blog_post",
+  "length": "medium",
+  "cta": "invite reader to turn one raw idea into a deployable system"
+}
